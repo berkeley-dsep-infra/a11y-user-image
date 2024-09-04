@@ -35,7 +35,7 @@ dependencies:
   # https://github.com/berkeley-dsep-infra/datahub/issues/3693
   - notebook==7.3.0a1
   - jupyterlab==4.3.0b1
-  - nbconvert-a11y==2023.03.25
+  - nbconvert-a11y==2024.03.25
   - nb2pdf==0.6.2
   - nbpdfexport==0.2.1
   - jupyterlab-a11y-checker==0.1.2
