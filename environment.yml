@@ -32,8 +32,8 @@ dependencies:
 - pip:
   # Upgrade separate from what everyone else uses for now
   # https://github.com/berkeley-dsep-infra/datahub/issues/3693
-  - notebook==7.3.0a1
-  - jupyterlab==4.3.0b1
+  - notebook==7.0.7
+  - jupyterlab==4.0.11
   - nbconvert-a11y==2024.03.25
   - nb2pdf==0.6.2
   - nbpdfexport==0.2.1
