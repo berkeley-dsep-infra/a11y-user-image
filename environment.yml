@@ -39,6 +39,6 @@ dependencies:
   - nbconvert-a11y==2024.03.25
   - nb2pdf==0.6.2
   - nbpdfexport==0.2.1
-  - jupyterlab-a11y-checker==0.1.4a1
+  - jupyterlab-a11y-checker==0.1.4a2
   # pulled in by ottr, if not pinned to 1.16.2, 1.16.3 causes DH-323
   - jupytext==1.16.2
