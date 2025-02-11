@@ -8,6 +8,7 @@ dependencies:
   - gh-scoped-creds==4.1
   - git==2.47.1
   - jupyter-archive==3.4.0
+  - jupyter-offlinenotebook==0.3.1
   - jupyter-resource-usage==1.1.0  
   - jupyter-server-proxy==4.4.0
   - jupyter_server==2.15.0 
@@ -18,18 +19,17 @@ dependencies:
   - jupytext==1.16.6
   - nbgitpuller==1.2.1
   - notebook==7.3.2
+  - otter-grader==6.1.0
   - pip==24.3.1  
   - python==3.11.*
 
   # otherstuff
-  - jupyter-offlinenotebook==0.3.1
   - coverage==7.2.2
   - jupyter-book==0.15.1
   - matplotlib==3.7.1
   - nbclassic==1.0.0
   - numpy==1.24.2
   - ollama==0.1.17
-  - otter-grader==6.1.0
   - plotly==5.13.1
   - pyopenssl==23.1.0
   - requests==2.32.3
