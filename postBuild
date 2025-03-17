@@ -8,10 +8,3 @@ npm install -g pa11y@6.2.3
 # webpdf
 export PLAYWRIGHT_BROWSERS_PATH=${CONDA_DIR}
 playwright install chromium
-for notebook in image-tests/*.ipynb; do
-    jupyter nbconvert --to webpdf "$notebook"
-    if [ ! -f "${notebook%.ipynb}.pdf" ]; then
-        echo "Error: PDF conversion failed for $notebook"
-        exit 1
-    fi
-done
