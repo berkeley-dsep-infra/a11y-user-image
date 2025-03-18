@@ -57,3 +57,5 @@ dependencies:
     - nb2pdf==0.6.2
     - nbpdfexport==0.2.1
     - jupyterlab-a11y-checker==0.1.4a2
+
+
