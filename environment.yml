@@ -42,7 +42,7 @@ dependencies:
   # Install Code Server to test codeserver specific a11y extensions
   - jupyter-vscode-proxy==0.6
   - code-server==4.23.1
-  - jupyterlab-notifications==0.5.0
+#  - jupyterlab-notifications==0.5.0
 
   # pip installed packages, conda is preferred
   - pip:
