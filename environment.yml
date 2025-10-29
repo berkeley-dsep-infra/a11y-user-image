@@ -42,7 +42,8 @@ dependencies:
   # Install Code Server to test codeserver specific a11y extensions
   - jupyter-vscode-proxy==0.6
   - code-server==4.23.1
-#  - jupyterlab-notifications==0.5.0
+
+  - mystmd==1.6.3
 
   # pip installed packages, conda is preferred
   - pip:
@@ -57,3 +58,4 @@ dependencies:
     - nb2pdf==0.6.2
     - nbpdfexport==0.2.1
     - jupyterlab-a11y-checker==0.2.5
+    - jupyter-myst-build-proxy==0.4.0
