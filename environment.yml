@@ -57,5 +57,5 @@ dependencies:
     - nbconvert-a11y==2024.03.25
     - nb2pdf==0.6.2
     - nbpdfexport==0.2.1
-    - jupyterlab-a11y-checker==0.2.5
+    - jupyterlab-a11y-checker==0.2.6
     - jupyter-myst-build-proxy==0.4.0
